@@ -131,7 +131,7 @@ export default function Playground() {
     };
 
     return (
-        <div className="flex h-screen bg-background text-foreground">
+        <div className="flex h-screen bg-background text-foreground font-outfit">
             {/* Sidebar */}
             <div className="w-64 border-r bg-muted/20 p-4 flex flex-col">
                 <div className="mb-6">
